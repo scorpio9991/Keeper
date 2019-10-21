@@ -1,4 +1,4 @@
-# my-app
+# Keeper
 
 ## Project setup
 ```
